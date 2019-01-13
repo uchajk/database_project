@@ -1,5 +1,6 @@
 # csc336_project1
-project 1 for csc336 Fall 2018
+- To run the program execute with python test.py
+- proram has dependencies of pillow and tkinter libraries
 
 create a branch from this repo and make changes in that until ready to merge with master.
 
