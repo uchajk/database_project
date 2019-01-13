@@ -1,6 +1,6 @@
 # csc336_project1
 - To run the program execute with python test.py
-- proram has dependencies of pillow and tkinter libraries
+- program has dependencies of pillow and tkinter libraries
 
 create a branch from this repo and make changes in that until ready to merge with master.
 
